@@ -1,0 +1,20 @@
+[
+  {
+    "username": "alice",
+    "email": "alice@example.com",
+    "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "full_name": "Alice Johnson"
+  },
+  {
+    "username": "bob",
+    "email": "bob@example.com",
+    "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "full_name": "Bob Smith"
+  },
+  {
+    "username": "ayo",
+    "email": "user@example.com",
+    "hashed_password": "$2b$12$.pJX85cwwDYW7OIJ6zUbKeqhn2pi3p9EkLcoOc183S1/yPPp7df.W",
+    "full_name": "string"
+  }
+]
